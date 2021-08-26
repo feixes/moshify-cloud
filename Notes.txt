@@ -185,6 +185,12 @@ USE WINDOWS TERMINAL, VSCode Terminal does not work for some strange reasons
 Pushing to GitHub:
 Push to github, and then to deploy we use the repository
 
+Deployment:
+Netlify.com
+New site from git
+Select github
+
+
 Tips:
 Define a media query for each section that we change.
 Create a folder for each of the elements that we create. Copy just the element.
